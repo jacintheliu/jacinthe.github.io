@@ -253,7 +253,7 @@
     }
 
     .github-corner svg {
-        color: #b4dcde;
+        color: #839dde;
         fill: #fff;
         height: 64px;
         width: 64px;
@@ -358,7 +358,18 @@
 
             <div class="description center-align">
                 
-                记录与分享学习的知识和技能
+                <span id="subtitle"></span>
+                <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+                <script>
+                    var typed = new Typed("#subtitle", {
+                        strings: ['Jacinthe&#39;s Blog','Stay Curious,Keep Learning'],
+                        startDelay: 300,
+                        typeSpeed: 100,
+                        loop: true,
+                        backSpeed: 50,
+                        showCursor: true
+                    });
+                </script>
                 
             </div>
         </div>
@@ -679,7 +690,7 @@
         <div class="col s12 m8 l8 copy-right">
             Copyright&nbsp;&copy;
             <span id="year">2020</span>
-            <a href="https://jacintheliu.github.io" target="_blank">Jacinthe Liu</a>
+            <a href="https://jacintheliu.tk" target="_blank">Jacinthe Liu</a>
             |&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
             |&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a>
             <br>
