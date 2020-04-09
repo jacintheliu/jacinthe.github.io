@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jacintheliu.tk/"/>
-  <updated>2020-04-09T08:06:43.840Z</updated>
+  <updated>2020-04-09T08:36:18.618Z</updated>
   <id>https://jacintheliu.tk/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://jacintheliu.tk/posts/blog/31905.html"/>
     <id>https://jacintheliu.tk/posts/blog/31905.html</id>
     <published>2020-04-09T05:37:18.000Z</published>
-    <updated>2020-04-09T08:06:43.840Z</updated>
+    <updated>2020-04-09T08:36:18.618Z</updated>
     
     <summary type="html">
     
@@ -39,7 +39,11 @@
       <category term="技术" scheme="https://jacintheliu.tk/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="hexo,github,matery" scheme="https://jacintheliu.tk/tags/hexo-github-matery/"/>
+      <category term="hexo" scheme="https://jacintheliu.tk/tags/hexo/"/>
+    
+      <category term="matery" scheme="https://jacintheliu.tk/tags/matery/"/>
+    
+      <category term="github" scheme="https://jacintheliu.tk/tags/github/"/>
     
   </entry>
   
