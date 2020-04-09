@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jacintheliu.tk/"/>
-  <updated>2020-04-09T05:56:34.552Z</updated>
+  <updated>2020-04-09T07:50:31.480Z</updated>
   <id>https://jacintheliu.tk/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hexo+Github+Matery搭建个人博客记录</title>
-    <link href="https://jacintheliu.tk/posts/null/31905.html"/>
-    <id>https://jacintheliu.tk/posts/null/31905.html</id>
+    <link href="https://jacintheliu.tk/posts/blog/31905.html"/>
+    <id>https://jacintheliu.tk/posts/blog/31905.html</id>
     <published>2020-04-09T05:37:18.000Z</published>
-    <updated>2020-04-09T05:56:34.552Z</updated>
+    <updated>2020-04-09T07:50:31.480Z</updated>
     
     <summary type="html">
     
@@ -40,6 +40,10 @@
     </summary>
     
     
+      <category term="技术" scheme="https://jacintheliu.tk/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="-blog" scheme="https://jacintheliu.tk/tags/blog/"/>
     
   </entry>
   

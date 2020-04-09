@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://jacintheliu.tk/posts/null/31905.html</loc>
+    <loc>https://jacintheliu.tk/404.html</loc>
     
-    <lastmod>2020-04-09T05:56:34.552Z</lastmod>
+    <lastmod>2020-04-09T07:57:14.134Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jacintheliu.tk/posts/blog/31905.html</loc>
+    
+    <lastmod>2020-04-09T07:50:31.480Z</lastmod>
     
   </url>
   
@@ -12,13 +19,6 @@
     <loc>https://jacintheliu.tk/posts/URL_HelloWorld/16107.html</loc>
     
     <lastmod>2020-04-08T07:33:10.013Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jacintheliu.tk/404.html</loc>
-    
-    <lastmod>2020-04-08T01:41:38.161Z</lastmod>
     
   </url>
   
