@@ -8,7 +8,7 @@
       <link href="/posts/blog/31905.html"/>
       <url>/posts/blog/31905.html</url>
       
-        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<h2 id="Hexo-Github-Matery搭建个人博客记录"><a href="#Hexo-Github-Matery搭建个人博客记录" class="headerlink" title="Hexo+Github+Matery搭建个人博客记录"></a>Hexo+Github+Matery搭建个人博客记录</h2><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       <categories>
@@ -20,7 +20,7 @@
       
         <tags>
             
-            <tag> -blog </tag>
+            <tag> hexo,github,matery </tag>
             
         </tags>
       
