@@ -32,7 +32,6 @@
 <meta name="generator" content="Hexo 4.2.0"><link rel="alternate" href="/atom.xml" title="Jacinthe’s Blog" type="application/atom+xml">
 <link rel="stylesheet" href="/css/prism-tomorrow.css" type="text/css"></head>
 
-<script type="text/javascript"> var OriginTitile = document.title, st; document.addEventListener("visibilitychange", function () { document.hidden ? (document.title = "看不见我🙈~看不见我🙈~", clearTimeout(st)) : (document.title = "(๑•̀ㅂ•́) ✧被发现了～", st = setTimeout(function () { document.title = OriginTitile }, 3e3)) }) </script>
 <body>
     <header class="navbar-fixed">
     <nav id="headNav" class="bg-color nav-transparent">
@@ -585,19 +584,19 @@ _____</code></pre><h4 id="5-列表"><a href="#5-列表" class="headerlink" title
 -两边加：表示文字居中
 -右边加：表示文字居右</code></pre><h4 id="10-其他"><a href="#10-其他" class="headerlink" title="10.其他"></a>10.其他</h4><ul>
 <li><p>表情符号</p>
-<p>支持添加emoji表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情，:smile:</p>
+<p>支持添加emoji表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情，😀</p>
 <p>示例：</p>
 <pre><code>:smile:（英文的冒号）</code></pre></li>
 <li><p>下标</p>
-<p>使用<code>~</code>来包裹下标内容，H<del>2</del>O</p>
+<p>使用<code>~</code>来包裹下标内容，H<sub>2</sub>O</p>
 <p>示例：</p>
 <pre><code>H~2~O</code></pre></li>
 <li><p>上标</p>
-<p>使用<code>^</code>包裹上标内容，X^2^</p>
+<p>使用<code>^</code>包裹上标内容，X<sup>2</sup></p>
 <p>示例：</p>
 <pre><code>X^2^</code></pre></li>
 <li><p>高亮</p>
-<p>使用<code>==</code>包裹突出的内容，==highlight==</p>
+<p>使用<code>==</code>包裹突出的内容，<mark>highlight</mark></p>
 <p>示例：</p>
 <pre><code>==highlight==</code></pre></li>
 </ul>
@@ -1274,7 +1273,16 @@ $(function () {
     
     <script async src="/libs/others/busuanzi.pure.mini.js"></script>
     
-
+    <script type="text/javascript">
+        var OriginTitile = document.title,
+            st;
+        document.addEventListener("visibilitychange", function () {
+            document.hidden ? (document.title = "看不见我🙈~看不见我🙈~", clearTimeout(st)) : (document.title =
+                                            "(๑•̀ㅂ•́) ✧被发现了～", st = setTimeout(function () {
+                    document.title = OriginTitile
+                }, 3e3))
+         })
+    </script>
     
 
     
@@ -1288,7 +1296,5 @@ $(function () {
     
     <script src="/libs/instantpage/instantpage.js" type="module"></script>
     
-
 </body>
-
 </html>
