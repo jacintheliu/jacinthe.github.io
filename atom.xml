@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jacintheliu.tk/"/>
-  <updated>2020-04-12T06:40:05.227Z</updated>
+  <updated>2020-04-13T04:02:49.957Z</updated>
   <id>https://jacintheliu.tk/</id>
   
   <author>
@@ -17,11 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>PicGo+GitHub+jsDelivr搭建免费CDN图床</title>
+    <link href="https://jacintheliu.tk/posts/PicGo-GitHub-jsDelivr/48882.html"/>
+    <id>https://jacintheliu.tk/posts/PicGo-GitHub-jsDelivr/48882.html</id>
+    <published>2020-04-12T12:45:42.000Z</published>
+    <updated>2020-04-13T04:02:49.957Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;步骤&quot;&gt;&lt;a href=&quot;#步骤&quot; class=&quot;headerlink&quot; title=&quot;步骤&quot;&gt;&lt;/a&gt;步骤&lt;/h1&gt;&lt;h2 id=&quot;一-创建GitHub-图床仓库&quot;&gt;&lt;a href=&quot;#一-创建GitHub-图床仓库&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="https://jacintheliu.tk/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="PicGo" scheme="https://jacintheliu.tk/tags/PicGo/"/>
+    
+      <category term="GitHub" scheme="https://jacintheliu.tk/tags/GitHub/"/>
+    
+      <category term="jsDelivr" scheme="https://jacintheliu.tk/tags/jsDelivr/"/>
+    
+  </entry>
+  
+  <entry>
     <title>《五天学会绘画》学习记录</title>
-    <link href="https://jacintheliu.tk/posts/null/3058.html"/>
-    <id>https://jacintheliu.tk/posts/null/3058.html</id>
+    <link href="https://jacintheliu.tk/posts/Drawing/3058.html"/>
+    <id>https://jacintheliu.tk/posts/Drawing/3058.html</id>
     <published>2020-04-12T06:24:06.000Z</published>
-    <updated>2020-04-12T06:40:05.227Z</updated>
+    <updated>2020-04-13T03:54:48.918Z</updated>
     
     <summary type="html">
     
@@ -40,15 +71,21 @@
     </summary>
     
     
+      <category term="绘画" scheme="https://jacintheliu.tk/categories/%E7%BB%98%E7%94%BB/"/>
+    
+    
+      <category term="drawing" scheme="https://jacintheliu.tk/tags/drawing/"/>
+    
+      <category term="learing" scheme="https://jacintheliu.tk/tags/learing/"/>
     
   </entry>
   
   <entry>
     <title>Freenom+Cloudflare+Yandex搭建免费域名邮箱</title>
-    <link href="https://jacintheliu.tk/posts/Email/20237.html"/>
-    <id>https://jacintheliu.tk/posts/Email/20237.html</id>
+    <link href="https://jacintheliu.tk/posts/Yandex-Email/20237.html"/>
+    <id>https://jacintheliu.tk/posts/Yandex-Email/20237.html</id>
     <published>2020-04-11T02:13:55.000Z</published>
-    <updated>2020-04-12T07:06:47.218Z</updated>
+    <updated>2020-04-13T13:19:17.660Z</updated>
     
     <summary type="html">
     
@@ -56,7 +93,7 @@
       
         
         
-          &lt;h1 id=&quot;步骤&quot;&gt;&lt;a href=&quot;#步骤&quot; class=&quot;headerlink&quot; title=&quot;步骤&quot;&gt;&lt;/a&gt;步骤&lt;/h1&gt;&lt;h2 id=&quot;一-Freenom的免费域名&quot;&gt;&lt;a href=&quot;#一-Freenom的免费域名&quot; class=&quot;headerlink&quot;
+          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;h3 id=&quot;1-域名邮箱是什么&quot;&gt;&lt;a href=&quot;#1-域名邮箱是什么&quot; class=&quot;headerlink&quot;
         
       
     
@@ -105,10 +142,10 @@
   
   <entry>
     <title>Hexo+Github+Matery搭建个人博客记录</title>
-    <link href="https://jacintheliu.tk/posts/blog/31905.html"/>
-    <id>https://jacintheliu.tk/posts/blog/31905.html</id>
+    <link href="https://jacintheliu.tk/posts/hexo-blog/31905.html"/>
+    <id>https://jacintheliu.tk/posts/hexo-blog/31905.html</id>
     <published>2020-04-09T05:37:18.000Z</published>
-    <updated>2020-04-10T07:01:25.191Z</updated>
+    <updated>2020-04-12T12:47:35.386Z</updated>
     
     <summary type="html">
     
