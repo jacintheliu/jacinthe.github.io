@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jacintheliu.tk/posts/HelloWorld/16107.html</loc>
+    <loc>https://jacintheliu.tk/posts/hexo-blog/31905.html</loc>
     <lastmod>2020-04-14</lastmod>
   </url>  <url>
     <loc>https://jacintheliu.tk/posts/Email/20237.html</loc>
+    <lastmod>2020-04-14</lastmod>
+  </url>  <url>
+    <loc>https://jacintheliu.tk/posts/HelloWorld/16107.html</loc>
     <lastmod>2020-04-14</lastmod>
   </url>  <url>
     <loc>https://jacintheliu.tk/posts/CDN/48882.html</loc>
@@ -12,9 +15,6 @@
   </url>  <url>
     <loc>https://jacintheliu.tk/posts/Drawing/3058.html</loc>
     <lastmod>2020-04-13</lastmod>
-  </url>  <url>
-    <loc>https://jacintheliu.tk/posts/hexo-blog/31905.html</loc>
-    <lastmod>2020-04-12</lastmod>
   </url>  <url>
     <loc>https://jacintheliu.tk/posts/typora/19097.html</loc>
     <lastmod>2020-04-12</lastmod>

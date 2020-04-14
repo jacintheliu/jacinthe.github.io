@@ -599,7 +599,7 @@
 <p>Yandex域名邮箱由大型企业/服务商维护，并可提供1000个自定义前缀邮箱，每个用户10G容量，支持Spf、Dkim，能降低被认证为垃圾邮件的几率</p>
 </blockquote>
 <h3 id="1-注册Yandex邮箱"><a href="#1-注册Yandex邮箱" class="headerlink" title="1.注册Yandex邮箱"></a>1.注册Yandex邮箱</h3><ul>
-<li><p>点击<a href="https://passport.yandex.com/registration" target="_blank" rel="noopener">Yandex</a>进入邮箱注册界面，填写信息，点击<code>Confirm number</code>验证号码，然后点击<code>Register</code>注册，可以使用+86的号码</p>
+<li><p>点击<a href="https://passport.yandex.com/registration" target="_blank" rel="noopener">Yandex</a>进入邮箱注册界面，填写信息，点击<code>Confirm number</code>验证号码，然后点击<code>Register</code>注册，可以使用<code>+86</code>的号码</p>
 <p><img src="https://cdn.jsdelivr.net/gh/jacintheliu/cdn/img/Freenom-Cloudflare-Yandex/23.png" alt=""></p>
 </li>
 </ul>
@@ -612,7 +612,7 @@
 <li><p>选择DNS record，点击<code>cpoy</code></p>
 <p><img src="https://cdn.jsdelivr.net/gh/jacintheliu/cdn/img/Freenom-Cloudflare-Yandex/25.png" alt=""></p>
 </li>
-<li><p>登陆<a href="https://dash.cloudflare.com/login" target="_blank" rel="noopener">Cloudflare</a>，点击域名，进入DNS界面，点击<code>Add Record</code>新增一条Type为<code>TXT</code>的记录，内容为刚刚<code>copy</code>的内容</p>
+<li><p>登陆<a href="https://dash.cloudflare.com/login" target="_blank" rel="noopener">Cloudflare</a>，点击域名，进入DNS界面，点击<code>Add Record</code>新增一条Type为<code>TXT</code>的记录，Name为<code>@</code>，内容为刚刚的<code>copy</code></p>
 <p><img src="https://cdn.jsdelivr.net/gh/jacintheliu/cdn/img/Freenom-Cloudflare-Yandex/26.png" alt=""></p>
 </li>
 <li><p>返回域名邮箱，点击<code>Verify domain</code>，然后等待验证通过</p>
@@ -622,11 +622,11 @@
 <p><img src="https://cdn.jsdelivr.net/gh/jacintheliu/cdn/img/Freenom-Cloudflare-Yandex/28.png" alt=""></p>
 <p><img src="https://cdn.jsdelivr.net/gh/jacintheliu/cdn/img/Freenom-Cloudflare-Yandex/29.png" alt=""></p>
 <ul>
-<li><p>Type选择<code>CNAME</code>,Name填写<code>Mail</code>,Content填写domain.mail.yandex.net.</p>
+<li><p>Type选择<code>CNAME</code>，Name填写<code>Mail</code>，Content填写domain.mail.yandex.net.</p>
 </li>
 <li><p>MX：Type选择<code>MX</code>，Name填写<code>@</code>，Mail server 填写 <code>mx.yandex.net.</code>，Priority 填写 <code>10</code></p>
 </li>
-<li><p>SPF Record：Type选择<code>TXT</code>，Name填写<code>@</code>，Content填写v=spf1 redirect=_spf.yandex.net‘’</p>
+<li><p>SPF Record：Type选择<code>TXT</code>，Name填写<code>@</code>，Content填写v=spf1 redirect=_spf.yandex.net</p>
 </li>
 <li><p>DKIM signature：Type选择<code>TXT</code>，Name填写mail._domainkey，Content填写图中<code>Copy</code>的内容</p>
 </li>
