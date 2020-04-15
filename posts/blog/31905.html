@@ -821,24 +821,16 @@ abbrlink:
 <li><code>date</code> 的值尽量保证每篇文章是唯一的，因为本主题中 <code>Gitalk</code> 和 <code>Gitment</code> 识别 <code>id</code> 是通过 <code>date</code> 的值来作为唯一标识的。</li>
 </ol>
 </blockquote>
-<h2 id="四-遇到的问题"><a href="#四-遇到的问题" class="headerlink" title="四.遇到的问题"></a>四.遇到的问题</h2><ul>
-<li><p>图片无法加载</p>
-<p>使用CDN图床，具体搭建过程参考：<a href="https://jacintheliu.tk/posts/CDN/48882.html">PicGo+GitHub+jsDelivr搭建免费CDN图床</a></p>
-</li>
-<li><p>谷歌显示网站不安全，有mixed content</p>
-<ul>
+<h2 id="四-遇到的问题"><a href="#四-遇到的问题" class="headerlink" title="四.遇到的问题"></a>四.遇到的问题</h2><h3 id="1-图片无法加载"><a href="#1-图片无法加载" class="headerlink" title="1.图片无法加载"></a>1.图片无法加载</h3><p>使用CDN图床，具体搭建过程参考：<a href="https://jacintheliu.tk/posts/CDN/48882.html">PicGo+GitHub+jsDelivr搭建免费CDN图床</a></p>
+<h3 id="2-谷歌显示网站不安全，有mixed-content"><a href="#2-谷歌显示网站不安全，有mixed-content" class="headerlink" title="2.谷歌显示网站不安全，有mixed content"></a>2.谷歌显示网站不安全，有mixed content</h3><ul>
 <li><p>找到网站的http网址，找到对应代码修改（发现是百度主动推送的问题，然后禁用了百度推送，因为没找到源代码）</p>
 </li>
 <li><p>使用一个 <code>&lt;meta&gt;</code> 元素在文档的 <code>&lt;head&gt;</code> 部分中嵌入指令：</p>
 <pre><code>&lt;meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"&gt;</code></pre></li>
 </ul>
-</li>
-<li><p>网站SEO优化</p>
-<ul>
+<h3 id="3-网站SEO优化"><a href="#3-网站SEO优化" class="headerlink" title="3.网站SEO优化"></a>3.网站SEO优化</h3><ul>
 <li>没有在百度提交sitemap</li>
 <li>谷歌提交sitemap失败，抓取不到新发布的文章</li>
-</ul>
-</li>
 </ul>
 <h2 id="END"><a href="#END" class="headerlink" title="END"></a>END</h2><p>很多还不会设置，先这样用吧，等再学习再优化，能写文章就很开心啦​，​要坚持​吖<span class="github-emoji" style="color: transparent;background:no-repeat url(https://github.githubassets.com/images/icons/emoji/unicode/1f606.png?v8) center/contain" data-src="https://github.githubassets.com/images/icons/emoji/unicode/1f606.png?v8">😆</span></p>
 <script>
