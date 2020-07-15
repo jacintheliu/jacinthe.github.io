@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jacintheliu.tk/"/>
-  <updated>2020-04-14T08:48:31.267Z</updated>
+  <updated>2020-05-14T10:33:55.215Z</updated>
   <id>https://jacintheliu.tk/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《学习观》总结</title>
+    <link href="https://jacintheliu.tk/posts/Learning%20concept/63494.html"/>
+    <id>https://jacintheliu.tk/posts/Learning%20concept/63494.html</id>
+    <published>2020-05-13T07:03:45.000Z</published>
+    <updated>2020-05-14T10:33:55.215Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;一-问题与回答&quot;&gt;&lt;a href=&quot;#一-问题与回答&quot; class=&quot;headerlink&quot; title=&quot;一.问题与回答&quot;&gt;&lt;/a&gt;一.问题与回答&lt;/h1&gt;&lt;h2 id=&quot;1-什么是学习？&quot;&gt;&lt;a href=&quot;#1-什么是学习？&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="https://jacintheliu.tk/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="learning" scheme="https://jacintheliu.tk/tags/learning/"/>
+    
+  </entry>
   
   <entry>
     <title>PicGo+GitHub+jsDelivr搭建免费CDN图床</title>

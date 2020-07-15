@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>《学习观》总结</title>
+      <link href="/posts/Learning%20concept/63494.html"/>
+      <url>/posts/Learning%20concept/63494.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="一-问题与回答"><a href="#一-问题与回答" class="headerlink" title="一.问题与回答"></a>一.问题与回答</h1><h2 id="1-什么是学习？"><a href="#1-什么是学习？" class="headerlink" title="1.什么是学习？"></a>1.什么是学习？</h2><h3 id="1-1学习的定义"><a href="#1-1学习的定义" class="headerlink" title="1.1学习的定义"></a>1.1学习的定义</h3><p>学习 </p><h3 id="1-2学习的原则"><a href="#1-2学习的原则" class="headerlink" title="1.2学习的原则"></a>1.2学习的原则</h3><h3 id="1-3学习VS记忆"><a href="#1-3学习VS记忆" class="headerlink" title="1.3学习VS记忆"></a>1.3学习VS记忆</h3><h2 id="2-为什么要学习？"><a href="#2-为什么要学习？" class="headerlink" title="2.为什么要学习？"></a>2.为什么要学习？</h2><h2 id="3-如何学习？"><a href="#3-如何学习？" class="headerlink" title="3.如何学习？"></a>3.如何学习？</h2><h2 id="4-好奇心"><a href="#4-好奇心" class="headerlink" title="4.好奇心"></a>4.好奇心</h2><h2 id="5-记忆与遗忘"><a href="#5-记忆与遗忘" class="headerlink" title="5.记忆与遗忘"></a>5.记忆与遗忘</h2><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> learning </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>PicGo+GitHub+jsDelivr搭建免费CDN图床</title>
       <link href="/posts/CDN/48882.html"/>
       <url>/posts/CDN/48882.html</url>
